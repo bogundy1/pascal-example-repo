@@ -1,0 +1,8 @@
+program SumNumbers;
+var a, b, sum: integer;
+begin
+    a := 5;
+    b := 10;
+    sum := a + b;
+    writeln('Sum: ', sum);
+end.
